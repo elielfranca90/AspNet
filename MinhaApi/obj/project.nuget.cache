@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kfX5NLxetrDs0OYi1U18b4GWT8ZlQtY0dEXPm37V+HBtuPW8T5hlsVmrVUJwaxDNWDhWKgjyPoJJ9JVnm2UjGw==",
+  "dgSpecHash": "QxAeqWxLATl+ZDUFItiFWlDvLSfp5m0Sj5XEJqZ4rcoW1Nk4llajVQilU4MNEbpEKR0takJxdsy1qRohKjt0uA==",
   "success": true,
-  "projectFilePath": "D:\\ELIEL\\Estudos\\AspNet6\\MinhaApi\\MinhaApi.csproj",
+  "projectFilePath": "d:\\ELIEL\\Estudos\\AspNet6\\MinhaApi\\MinhaApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S2kno\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\S2kno\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

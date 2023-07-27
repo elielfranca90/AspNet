@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\ELIEL\\Estudos\\AspNet6\\MinhaApi\\MinhaApi.csproj": {}
+    "D:\\ELIEL\\Estudos\\AspNet6\\MinhaApi\\MinhaApi.csproj": {}
   },
   "projects": {
-    "d:\\ELIEL\\Estudos\\AspNet6\\MinhaApi\\MinhaApi.csproj": {
+    "D:\\ELIEL\\Estudos\\AspNet6\\MinhaApi\\MinhaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ELIEL\\Estudos\\AspNet6\\MinhaApi\\MinhaApi.csproj",
+        "projectUniqueName": "D:\\ELIEL\\Estudos\\AspNet6\\MinhaApi\\MinhaApi.csproj",
         "projectName": "MinhaApi",
-        "projectPath": "d:\\ELIEL\\Estudos\\AspNet6\\MinhaApi\\MinhaApi.csproj",
+        "projectPath": "D:\\ELIEL\\Estudos\\AspNet6\\MinhaApi\\MinhaApi.csproj",
         "packagesPath": "C:\\Users\\S2kno\\.nuget\\packages\\",
-        "outputPath": "d:\\ELIEL\\Estudos\\AspNet6\\MinhaApi\\obj\\",
+        "outputPath": "D:\\ELIEL\\Estudos\\AspNet6\\MinhaApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\S2kno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.9, )"
             },
